@@ -48,7 +48,7 @@ TODO
 Checkout this repo and change into the folder:
 ```
 git clone https://github.com/jku-icg-classroom/xai_proj_space_2022-<GROUP_NAME>.git
-cd xai_proj_space_2022-<GROUP_NAME>
+cd xai_proj_space_2022-the-ai-explainers
 ```
 
 Load the conda environment from the shared `environment.yml` file:
