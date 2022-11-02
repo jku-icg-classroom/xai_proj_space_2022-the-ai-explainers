@@ -3,7 +3,13 @@
 
 ## Feature Visualization
 
-TODO
+In machine learning (ML), we constantly seek to gain insights into the data, such as familiarizing ourselves with the training samples or improving our comprehension of the label distribution. We use a variety of data visualization techniques to do that.
+
+Usually, we have to examine a number of data properties at once. For instance, the data in traditional ML may have thousands of labels. We must first comprehend the data's structure and the significance of these qualities in order to choose the best model.
+
+Compared to standard ML, the dimensionality increases in deep learning. On the one hand, there aren't usually many labels in the datasets we work with. For instance, in classification, there is only ever one class label that corresponds to a picture. Neural Nets, on the other hand, handle data in a complicated manner using their millions of parameters and several layers. We might need to view the inner feature maps or parameter values to understand what's happening inside the network, which would require working with multidimensional data once more.
+
+We can only understand 1-, 2-, or 3-dimensional plots since we are 3D creatures. A collection of techniques known as Dimensionality Reduction methods can be used to view multidimensional data in smaller dimensions.
 
 ## General Information Submission
 
