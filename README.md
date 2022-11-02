@@ -14,7 +14,7 @@ TODO
 | 11942036      | Abdul Basit | Banbhan        |abdul.banbhan@jku.at       |TODO           |
 | 12126769      | Hala        | Al-Jarajrah    |k12126769@students.jku.at  |TODO           |
 | 51903451      | Mohamed     | ELharty        |m.elharty@outlook.com      |TODO           |
-| 12130348      | Nader       | Essam          |k12130348@jku.at           |TODO           |
+| 12130348      | Nader       | Essam          |k12130348@students.jku.at  |TODO           |
 
 ### Dataset
 Please add your dataset to the repository (or provide a link if it is too large) and answer the following questions about it:
