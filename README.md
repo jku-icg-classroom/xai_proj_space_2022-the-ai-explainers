@@ -17,10 +17,10 @@ We can only understand 1-, 2-, or 3-dimensional plots since we are 3D creatures.
 
 | Student ID    | First Name  | Last Name      | E-Mail                    |  Workload [%] |
 | --------------|-------------|----------------|----------------------     |---------------|
-| 11942036      | Abdul Basit | Banbhan        |abdul.banbhan@jku.at       |TODO           |
-| 12126769      | Hala        | Al-Jarajrah    |k12126769@students.jku.at  |TODO           |
-| 51903451      | Mohamed     | ELharty        |m.elharty@outlook.com      |TODO           |
-| 12130348      | Nader       | Essam          |k12130348@students.jku.at  |TODO           |
+| 11942036      | Abdul Basit | Banbhan        |abdul.banbhan@jku.at       |33%           |
+| 12126769      | Hala        | Al-Jarajrah    |k12126769@students.jku.at  |33%           |
+| 51903451      | Mohamed     | ELharty        |m.elharty@outlook.com      |33%           |
+| 12130348      | Nader       | Essam          |k12130348@students.jku.at  |33%           |
 
 ### Dataset
 Please add your dataset to the repository (or provide a link if it is too large) and answer the following questions about it:
@@ -31,8 +31,9 @@ Please add your dataset to the repository (or provide a link if it is too large)
 * What do you want to analyze?
 * What are you expecting to see?
 
-The dataset used is an image dataset used for microscopy image classification. The dataset is acquired from a previous course, AI in Life Sciences. The dataset consists of 9632 training images with 9 classes. However, only 7890 images are used for training and the rest is used for testing. The goal is to analyze the learning process of the model and to visualize the features. The Deep Learning (DL) training algorithms and its influence on the explainability of neural network models are investigated. 
-The overall aim is to visualize flow of information within the deep NN using factors that can be interpreted by humans, even if the underlying model uses more complex factors, which enables generation of human interpretable explanations.
+The [dataset](https://wetransfer.com/downloads/bee4357cef690b92421acab24273600d20221102143932/49f7c3) used is an image dataset used for microscopy image classification. The dataset is acquired from a previous course, AI in Life Sciences. The dataset consists of 9632 training images with 9 classes. However, only 7890 images are used for training and the rest is used for testing. 
+The goal is to analyze the learning process of the model and to visualize the features. The Deep Learning (DL) training algorithms and its influence on the explainability of neural network models are investigated. The overall aim is to visualize flow of information within the deep NN using factors that can be interpreted by humans, even if the underlying model uses more complex factors, which enables generation of human interpretable explanations.
+
 In this data, we visualize the learning process of the model. The inter-epoch trajectory of the model learning is the main focus. Initially, the network has random weights and learns features from data. As the epochs proceed, the model learns and is able to use the learned features and use the updated weights to better the classification results. The model hidden layer features are visualized and should be seen with better and more obvious formation of clusters. 
 
 
