@@ -23,13 +23,6 @@ We can only understand 1-, 2-, or 3-dimensional plots since we are 3D creatures.
 | 12130348      | Nader       | Essam          |k12130348@students.jku.at  |25%           |
 
 ### Dataset
-Please add your dataset to the repository (or provide a link if it is too large) and answer the following questions about it:
-
-* Which dataset are you using? What is it about?
-* Where did you get this dataset from (i.e., source of the dataset)? How was the dataset generated?
-* What is dataset size in terms of nodes, items, rows, columns, ...?
-* What do you want to analyze?
-* What are you expecting to see?
 
 The [dataset](https://wetransfer.com/downloads/bee4357cef690b92421acab24273600d20221102143932/49f7c3) used is an image dataset used for microscopy image classification. The dataset is acquired from a previous course, AI in Life Sciences. The dataset consists of 9632 training images with 9 classes. However, only 7890 images are used for training and the rest is used for testing. 
 The goal is to analyze the learning process of the model and to visualize the features. The Deep Learning (DL) training algorithms and its influence on the explainability of neural network models are investigated. The overall aim is to visualize flow of information within the deep NN using factors that can be interpreted by humans, even if the underlying model uses more complex factors, which enables generation of human interpretable explanations.
