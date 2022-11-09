@@ -20,3 +20,5 @@ dependencies:
   - torch
   - pip:
     - git+https://github.com/dvmarkusvogl/gym-2048.git
+    - torch
+    - torchvision
