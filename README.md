@@ -71,15 +71,6 @@ t-SNE differs from PCA by preserving only small pairwise distances or local simi
 
 UMAP is another investigated dimension reduction technique that can be used for visualization similarly to t-SNE, but also for general non-linear dimension reduction. The manifold was modeled with a fuzzy topological structure. The UMAP algorithm is competitive with t-SNE for visualization quality, and preserves more of the global structure with superior run time performance.
 
-## Final Submission
-
-* Make sure that you pushed your GitHub repository and not just committed it locally.
-* Sending us an email with the code is not necessary.
-* Update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
-* Create a single, clearly named notebook with your solution, e.g. solution.ipynb.
-* Save your final executed notebook as html (File > Download as > HTML) and add them to your repository.
-
-
 ## Development Environment
 
 Checkout this repo and change into the folder:
