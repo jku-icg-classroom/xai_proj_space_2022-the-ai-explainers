@@ -51,11 +51,6 @@ wget https://apps.ml.jku.at/challenge/data/datasets/cell_id/y_train.csv
 
 
 ## Results
-TODO: 
-- What can be seen in the projection(s)?
-- Was it what you expected? If not what did you expect?
-- Can you confirm prior hypotheses from the projection?
-- Did you get any unexpected insights?
 
 Deep Neural Networks transform data at each layer, producing a new representation as output. The trained DNN model divides data in the classification problem, enhancing the action layer by layer until it reaches the output layer with the model's best possible result. The goal of this task is to be viewed as the separation of lower-dimensional manifolds in data space. Visualizing high-dimensional data representations via dimensionality reduction is a well-known technique for examining deep learning models. This allows a more clear view of the model classification as the model trains for more epochs.
 
