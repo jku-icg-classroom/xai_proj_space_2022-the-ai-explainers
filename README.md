@@ -30,6 +30,14 @@ The goal is to analyze the learning process of the model and to visualize the fe
 In this data, we visualize the learning process of the model. The inter-epoch trajectory of the model learning is the main focus. Initially, the network has random weights and learns features from data. As the epochs proceed, the model learns and is able to use the learned features and use the updated weights to better the classification results. The model hidden layer features are visualized and should be seen with better and more obvious formation of clusters. 
 
 
+## Results
+TODO: 
+What can be seen in the projection(s)?
+Was it what you expected? If not what did you expect?
+Can you confirm prior hypotheses from the projection?
+Did you get any unexpected insights?
+
+
 ## Final Submission
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
