@@ -45,6 +45,16 @@ TODO:
 - Can you confirm prior hypotheses from the projection?
 - Did you get any unexpected insights?
 
+### Animation of PCA over 10 epochs
+https://user-images.githubusercontent.com/27974341/200884531-98989a0b-725f-4ca0-9386-16bd78396d98.mp4
+
+### Animation of t-SNE with matric euclidean over 10 epochs
+https://user-images.githubusercontent.com/27974341/200884943-15c042b2-37df-49ce-8a0b-e08d7202a164.mp4
+
+
+### Animation of UMAP with matric euclidean over 10 epochs
+https://user-images.githubusercontent.com/27974341/200885153-d6e06296-4ca5-4b81-8f1c-9284b271a2dd.mp4
+
 
 ## Final Submission
 
