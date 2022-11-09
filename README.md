@@ -17,10 +17,10 @@ We can only understand 1-, 2-, or 3-dimensional plots since we are 3D creatures.
 
 | Student ID    | First Name  | Last Name      | E-Mail                    |  Workload [%] |
 | --------------|-------------|----------------|----------------------     |---------------|
-| 11942036      | Abdul Basit | Banbhan        |abdul.banbhan@jku.at       |25%           |
-| 12126769      | Hala        | Al-Jarajrah    |k12126769@students.jku.at  |25%           |
-| 51903451      | Mohamed     | ELharty        |m.elharty@outlook.com      |25%           |
-| 12130348      | Nader       | Essam          |k12130348@students.jku.at  |25%           |
+| 11942036      | Abdul Basit | Banbhan        |abdul.banbhan@jku.at       |30%           |
+| 12126769      | Hala        | Al-Jarajrah    |k12126769@students.jku.at  |30%           |
+| 51903451      | Mohamed     | ELharty        |m.elharty@outlook.com      |10%           |
+| 12130348      | Nader       | Essam          |k12130348@students.jku.at  |30%           |
 
 ### Dataset
 
