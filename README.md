@@ -32,10 +32,10 @@ In this data, we visualize the learning process of the model. The inter-epoch tr
 
 ## Results
 TODO: 
-What can be seen in the projection(s)?
-Was it what you expected? If not what did you expect?
-Can you confirm prior hypotheses from the projection?
-Did you get any unexpected insights?
+- What can be seen in the projection(s)?
+- Was it what you expected? If not what did you expect?
+- Can you confirm prior hypotheses from the projection?
+- Did you get any unexpected insights?
 
 
 ## Final Submission
