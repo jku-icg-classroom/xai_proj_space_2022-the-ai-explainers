@@ -57,6 +57,14 @@ TODO:
 - Can you confirm prior hypotheses from the projection?
 - Did you get any unexpected insights?
 
+Deep Neural Networks transform data at each layer, producing a new representation as output. The trained DNN model divides data in the classification problem, enhancing the action layer by layer until it reaches the output layer with the model's best possible result. The goal of this task is to be viewed as the separation of lower-dimensional manifolds in data space. Visualizing high-dimensional data representations via dimensionality reduction is a well-known technique for examining deep learning models. This allows a more clear view of the model classification as the model trains for more epochs.
+
+PCA is a linear dimension reduction technique that seeks to maximize variance and preserves large pairwise distances. This was seen in our dataset when different classes ended up far apart. However, this way of reducing dimensionality may lead to poor visualization when dealing with non-linear manifold structures; thus, other dimensionality reduction methods were investigated. 
+
+t-SNE differs from PCA by preserving only small pairwise distances or local similarities whereas PCA is concerned with preserving large pairwise distances to maximize variance. This is seen in our plots with the clusters clearly further away than in PCA. 
+
+UMAP is another investigated dimension reduction technique that can be used for visualization similarly to t-SNE, but also for general non-linear dimension reduction. The manifold was modeled with a fuzzy topological structure. The UMAP algorithm is competitive with t-SNE for visualization quality, and preserves more of the global structure with superior run time performance.
+
 ### Animation of PCA over 10 epochs
 https://user-images.githubusercontent.com/27974341/200884531-98989a0b-725f-4ca0-9386-16bd78396d98.mp4
 
